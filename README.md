@@ -3,8 +3,8 @@ Sou dedicado, aprendo rapidamente e sou comunicativo. Tenho habilidades em proat
 
 # Experiência
 Capacitação para Monitores, INATEL — Instituto Nacional de Telecomunicações.
-Período: Outubro de 2022.
-Participei do treinamento para capacitação de monitores ministrada pelo Instituto Nacional de Telecomunicações.
+  Período: Outubro de 2022.
+  Participei do treinamento para capacitação de monitores ministrada pelo Instituto Nacional de Telecomunicações.
 
 
 Capacitação em Core 5G, INATEL — Instituto Nacional de Telecomunicações.
