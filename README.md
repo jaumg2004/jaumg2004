@@ -6,6 +6,7 @@ Capacitação para Monitores, INATEL — Instituto Nacional de Telecomunicaçõe
 Período: Outubro de 2022.
 Participei do treinamento para capacitação de monitores ministrada pelo Instituto Nacional de Telecomunicações.
 
+
 Capacitação em Core 5G, INATEL — Instituto Nacional de Telecomunicações.
 Período: Outubro de 2023 - Novembro de 2023.
 Participei do treinamento especializado em Core 5G, abordando desde os fundamentos até as aplicações práticas e projetos de arquitetura, ministrado pelo Instituto Nacional de Telecomunicações.
